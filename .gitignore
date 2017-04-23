@@ -1,0 +1,6 @@
+output/*
+source/*
+*.gslides
+*.pdf
+*.zip
+*.json
